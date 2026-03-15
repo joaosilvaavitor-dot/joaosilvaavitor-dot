@@ -1,6 +1,7 @@
 # Olá, eu sou o João Silva!
 Sober mim:
-Interesse especial em **projetos web** e **desenvolvimento front-end**
+
+Interesse especial em **desenvolvimento front-end e back-end**
 - Estudante de Desenvolvimento de Sistemas
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
