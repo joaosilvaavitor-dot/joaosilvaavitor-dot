@@ -7,7 +7,7 @@ Interesse especial em **desenvolvimento front-end e back-end**
 - Preparando-se para o mercado de tecnologia
 - Contatos:
 - [![Gmail] **joaosilvaavitor@gmail.com**
-- [![LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-vitor-silva-ab527b1b7/)
+- [![LinkedIn] https://www.linkedin.com/in/joão-vitor-silva-ab527b1b7/
 
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
