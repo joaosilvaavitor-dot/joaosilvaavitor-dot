@@ -6,8 +6,8 @@ Interesse especial em **desenvolvimento front-end e back-end**
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
 - Contatos:
--  E-mail **joaosilvaavitor@gmail.com**
-- Linkedin **https://www.linkedin.com/in/joão-vitor-silva-ab527b1b7/**
+- [![Gmail] **joaosilvaavitor@gmail.com**
+- [![LinkedIn] **https://www.linkedin.com/in/joão-vitor-silva-ab527b1b7/**
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
