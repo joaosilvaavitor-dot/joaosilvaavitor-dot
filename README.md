@@ -3,8 +3,8 @@ Sober mim:
 
 Interesse especial em **desenvolvimento front-end e back-end**
 - Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS
-- Preparando-se para o mercado de tecnologia
+- Focos de carreira Python e HTML 
+- Qualificando-se para o mercado de tecnologia
 - Contatos:
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)] **joaosilvaavitor@gmail.com**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/joão-vitor-silva-ab527b1b7/
