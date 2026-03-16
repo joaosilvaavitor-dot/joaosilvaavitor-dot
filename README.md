@@ -10,9 +10,7 @@ Interesse especial em **desenvolvimento front-end e back-end**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/joão-vitor-silva-ab527b1b7/
 
 ## Tecnologias que me interessam
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Csharp" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div> 
+Minimalist Java logo icon for GitHub README, simple coffee cup with steam forming a subtle code symbol, clean flat vector design, orange and red gradient, white or transparent background, centered composition, smooth lines, high contrast, modern developer style, optimized for small size visibility, square format, 40x40 pixels, crisp edges, tech stack icon style
+
 
 
