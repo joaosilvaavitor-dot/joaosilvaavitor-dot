@@ -1,4 +1,4 @@
-# Olá, eu sou o João Silva! 
+# Hi, I'm João Silva! 
 
 🚀  **Systems Analysis and Development student  
 Pyton/HTML/CSS/Javascript** 
@@ -6,7 +6,7 @@ Pyton/HTML/CSS/Javascript**
 🇧🇷
 
 
-Sober mim:
+About me:
 
 Special interest in **front-end and back-end development**
 - Systems Development student
